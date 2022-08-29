@@ -1,0 +1,26 @@
+{
+    "name": "tailwindcss-current",
+    "version": "1.0.0",
+    "description": "Add degree values into background gradients",
+    "keywords": [
+      "tailwindcss",
+      "plugin",
+      "active",
+      "selected",
+      "current",
+      "variants"
+    ],
+    "main": "index.js",
+    "publishConfig": {
+      "access": "public"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/czernika/tailwindcss-current.git"
+    },
+    "author": "Aliakseyenka Ihar <aliha.devs@gmail.com>",
+    "license": "MIT",
+    "peerDependencies": {
+      "tailwindcss": "3.x"
+    }
+  }
